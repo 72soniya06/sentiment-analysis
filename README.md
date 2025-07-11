@@ -55,4 +55,4 @@ cd sentiment-analysis-product-reviews
 # Step 3: Install the required libraries
 
 # Step 4: Run the Google colab
-  Sentiment_Analysis.ipynb
+  sentiment_analysis.ipynb
